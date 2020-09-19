@@ -1,0 +1,9 @@
+name: movie_api
+dependencies:
+  - flask
+  - pandas
+  - python=3.7
+  - pip
+  - nltk
+  - numpy
+  - scikit-learn
